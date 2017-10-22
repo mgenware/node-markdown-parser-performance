@@ -28,7 +28,7 @@
     "mocha": "*"
   },
   "scripts": {
-    "test": "mocha --reporter spec"
+    "bench": "node lib/main.js"
   },
   "engines": {
     "node": ">=6.0.0"
