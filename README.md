@@ -13,6 +13,9 @@ remark ^8.0.0        x 9.35   ops/sec ±3.71% (48 runs sampled)
 Fastest is remarkable ^1.7.1
 ```
 
+## Test file
+The test file is a copy of this [markdown file](https://github.com/airbnb/javascript/blob/master/README.md).
+
 ## Run tests
 ```sh
 # npm
