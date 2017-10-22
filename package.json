@@ -2,7 +2,7 @@
   "name": "node-markdown-parser-performance",
   "version": "1.0.0",
   "description": "Node.js path renaming made easy",
-  "main": "lib/main.js",
+  "main": "lib/default.js",
   "author": "Mgen (https://www.mgenware.com)",
   "homepage": "https://github.com/mgenware/node-markdown-parser-performance",
   "bugs": "https://github.com/mgenware/node-markdown-parser-performance/issues",
@@ -28,7 +28,7 @@
     "mocha": "*"
   },
   "scripts": {
-    "bench": "node lib/main.js"
+    "bench_default": "node lib/default.js"
   },
   "engines": {
     "node": ">=6.0.0"
