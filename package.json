@@ -19,13 +19,13 @@
     "commonmark": "^0.28.1",
     "markdown": "^0.5.0",
     "markdown-it": "^8.4.0",
-    "marked": "^0.3.6",
+    "marked": "^0.3.9",
     "remark": "^8.0.0",
-    "remark-html": "^6.0.1",
+    "remark-html": "^7.0.0",
     "remark-parse": "^4.0.0",
     "remarkable": "^1.7.1",
-    "showdown": "^1.7.6",
-    "unified": "^6.1.5"
+    "showdown": "^1.8.6",
+    "unified": "^6.1.6"
   },
   "devDependencies": {
     "mocha": "*"
