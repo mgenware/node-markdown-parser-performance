@@ -16,23 +16,15 @@
   "license": "MIT",
   "dependencies": {
     "benchmark": "^2.1.4",
+    "cmark-gfm-js": "^1.1.5",
     "commonmark": "^0.28.1",
-    "markdown": "^0.5.0",
-    "markdown-it": "^8.4.0",
-    "marked": "^0.3.9",
-    "remark": "^8.0.0",
-    "remark-html": "^7.0.0",
-    "remark-parse": "^4.0.0",
-    "remarkable": "^1.7.1",
-    "showdown": "^1.8.6",
-    "unified": "^6.1.6"
+    "markdown-it": "^8.4.1"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "5.1.1"
   },
   "scripts": {
-    "bench_default": "node lib/default.js",
-    "bench_commonmark": "node lib/commonmark.js"
+    "benchmark": "node lib/benchmark.js"
   },
   "engines": {
     "node": ">=6.0.0"
